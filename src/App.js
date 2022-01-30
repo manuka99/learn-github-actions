@@ -5,7 +5,7 @@ import { Greet } from "./components/functional_component";
 import Welcome from "./components/class_component";
 import Hello from "./components/jsx";
 import Message from "./components/message";
-import Counter from "./components/counters";
+import Counter from "./components/counter";
 
 function App() {
   return (
